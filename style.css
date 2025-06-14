@@ -1,0 +1,291 @@
+body{
+    background-color: rgb(226, 226, 226);
+    justify-content: center;
+    align-items: center;
+}
+.main-div {
+ 
+}
+
+.side-div{
+   
+    height: 800px;
+    width: 270px;
+    border-radius: 15px;
+    flex-wrap: wrap;
+    background-color: rgb(255, 255, 255);
+    
+}
+.yo{
+    width: 200px;
+    height: 60px;
+}
+p{
+    align-items: center;
+     padding: 40px;
+}
+i{
+    padding:10px 10px;
+}
+h2{
+    align-items: center;
+}
+nav{
+    width: 1300px;
+    display: flex;
+    align-items: center;
+    height: 10vh;
+    margin-left: 300px;
+    background-color: white;
+    margin-top: -800px;
+    border-radius: 13px;
+}
+.bars{
+    margin-left: 30px;
+    border-radius: 10px;
+}
+.home-icon{
+    margin-left: 15px;
+    border-radius:10px ;
+   
+}
+.fire-icon{
+    margin-left: 15px;
+    border-radius: 10px;
+     
+}
+.video-icon{
+    margin-left: 15px;
+    border-radius: 10px;
+    
+}
+.search{
+    width: 650px;
+    height:5vh ;
+    margin-left: 20px;
+    border-radius: 10px;
+    border: white;
+     background-color: rgb(226, 226, 226);
+}
+button{
+    border: white;
+}
+.video-icon{
+    margin: 15px;
+    border-radius: 10px;
+}
+.dots-icon{
+    margin: 15px;
+    border-radius: 10px;
+}
+.bell-icon{
+    margin: 15px;
+    border-radius: 10px;
+}
+.user{
+    margin: 15px;
+    border-radius: 10px;
+}
+:hover button :hover{
+    color:black;
+    background-color: lightcoral;
+    width: 20px;
+}
+.but2{
+    display: flex;
+    margin-left: 310px;
+    margin-top: 30px;
+    padding: 5px 5px;
+    width: 60px;
+    height: 25px;
+    border-radius: 12px;
+}
+.but3{
+    display: flex;
+    margin-left: 490px;
+    margin-top: -25px;
+    padding: 5px 5px;
+    height: 25px;
+    border-radius: 12px;
+}
+.but4{
+    display: flex;
+    margin-left:400px;
+    margin-top: -25px;
+    padding: 5px 5px;
+    height: 25px;
+    border-radius: 12px;
+    width: 70px;
+}
+.but5{
+    display: flex;
+    margin-left: 660px;
+    margin-top: -25px;
+    padding: 5px 5px;
+    height: 25px;
+    border-radius: 12px;
+    width: 90px;
+    
+}
+.but6{
+    display: flex;
+    margin-left: 780px;
+    margin-top: -25px;
+    padding: 5px 5px;    
+    height: 25px;
+    border-radius: 12px;
+    width: 70px;
+}
+.but7{
+    display: flex;
+    margin-left: 880px;
+ margin-top: -25px;
+ padding: 5px 5px;
+height: 25px;
+ border-radius: 12px;
+ width: 100px;
+
+}
+.but8{
+        display: flex;
+    margin-left: 1000px;
+ margin-top: -25px;
+ padding: 5px 5px;
+height: 25px;
+ border-radius: 12px;
+ width: 100px;
+}
+.but9{
+            display: flex;
+    margin-left: 1150px;
+ margin-top: -25px;
+ padding: 5px 5px;
+height: 25px;
+ border-radius: 12px;
+ width: 100px;
+}
+:hover.all:hover{
+    color: white;
+    background-color: black;
+}
+.banner{
+    width: 1300px;
+    height: 250px;
+    margin-left: 340px;
+    border-radius: 20px;
+    margin-top: 7px;
+    
+}
+.video1{
+    
+    background-color: white;
+  margin-top: -6px;   height:200px;
+    width: 250px;
+    margin-left: 340px;
+    border-radius: 15px;
+   
+}
+.videos{
+    height: 400px;
+    flex-wrap: wrap;
+    
+}
+
+.video2{
+    
+    background-color: white;
+  margin-top: 20px;   height:200px;
+    width: 250px;
+    margin-left: 340px;
+    border-radius: 15px;
+   
+}
+.video3{
+    
+    background-color: white;
+  margin-top: -420px;   height:200px;
+    width: 250px;
+    margin-left: 650px;
+    border-radius: 15px;
+   
+}
+.video4{
+    
+    background-color: white;
+  margin-top: 20px;   height:200px;
+    width: 250px;
+    margin-left: 650px;
+    border-radius: 15px;
+   
+}
+.video5{
+    
+    background-color: white;
+  margin-top: -415px;   height:200px;
+    width: 250px;
+    margin-left: 960px;
+    border-radius: 15px;
+   
+}
+.video6{
+    
+    background-color: white;
+  margin-top: 20px;   height:200px;
+    width: 250px;
+    margin-left: 960px;
+    border-radius: 15px;
+   
+}
+.video7{
+    
+    background-color: white;
+  margin-top: -420px;   height:200px;
+    width: 250px;
+    margin-left: 1270px;
+    border-radius: 15px;
+   
+}
+.video8{
+    
+    background-color: white;
+  margin-top: 20px;   height:200px;
+    width: 250px;
+    margin-left: 1270px;
+    border-radius: 15px;
+   
+}
+img{
+    width: 230px;
+   height:100px ;
+   padding: 10px 10px;
+   border-radius: 20px;
+}
+h4{
+ color: black;
+ display: flex;
+ text-align: center;
+margin-top: -10px;
+margin-left: 20px;
+}
+h5{
+    color: black;
+ display: flex;
+ text-align: center;
+margin-top: -10px;
+margin-left: 20px; 
+}
+.icon{
+    margin-left: 20px;
+    margin-right: 20px; 
+border-radius: 13px;
+}
+:hover.icon:hover{
+    background-color: rgb(224, 81, 81);
+}
+.hedding{
+    margin-top: -17px;
+    margin-left: 20px;
+}
+.fon{
+    font-family: "Lato", sans-serif;
+}
